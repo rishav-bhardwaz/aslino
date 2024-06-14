@@ -6,7 +6,6 @@ ASLino is a real-time video chat application that leverages React.js, WebRTC, an
 ## Features
 
 - **Real-time Video and Audio Communication**: Connect with peers using WebRTC for high-quality video and audio.
-- **Instant Messaging**: Send and receive text messages in real-time during video chats.
 - **User Authentication**: Secure login and registration system.
 - **Responsive Design**: Fully responsive layout that works on both desktop and mobile devices.
 - **Scalable Architecture**: Built with scalability in mind, ensuring efficient handling of multiple simultaneous connections.
@@ -17,9 +16,6 @@ ASLino is a real-time video chat application that leverages React.js, WebRTC, an
 - **WebRTC**: A technology that enables peer-to-peer audio, video, and data sharing between browser clients.
 - **Socket.io**: A library for real-time web applications that enables bi-directional communication between web clients and servers.
 - **Node.js**: Server-side JavaScript runtime environment used to build the backend server.
-- **Express.js**: A web application framework for Node.js, used for handling HTTP requests and routing.
-- **MongoDB**: A NoSQL database used to store user data and chat history.
-
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
@@ -71,8 +67,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [React.js](https://reactjs.org/)
 - [Socket.io](https://socket.io/)
 - [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
 
 ---
 
